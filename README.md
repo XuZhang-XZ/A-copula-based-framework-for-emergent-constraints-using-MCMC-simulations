@@ -1,4 +1,4 @@
-# A copula-based framework for emergent constraints using MCMC simulations
+# A-copula-based-framework-for-emergent-constraints-using-MCMC-simulations
 
 This fold includes code that generate main results in the article entitled "A copula-based framework for emergent constraints using MCMC simulations"
 
