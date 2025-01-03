@@ -6,7 +6,7 @@ This fold includes code that generate main results in the article entitled "A co
 R (4.4.1) and RStudio (2024.09.1) are required to run the code.
 
 ## 2. Installation guide
-Please open the file of "Project.Rproj" using RStudio.
+Please download and unzip the "Code_JCLI-D-24-0591.zip" file. Then, open the file of "Project.Rproj" using RStudio.
 
 ## 3. Instruction
 Here we provide source code and data that are necessary to generate figures in the main text. Please run the code in "code" folder with the following order: \
