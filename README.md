@@ -19,6 +19,6 @@ Here we provide source code and data that are necessary to generate figures in t
 -- 23. Plot Vine Copula.R
 
 ## 4. Notes
-4.1. Before running our code, please make sure that all packages specified in the "0. library.R" have been installed.
-4.2. All the figures will be saved to the "Figures/Final Figures/" folder.
-4.3. If you have any enquiry, please contact Zhang Xu (zhangxu_hku@connect.hku.hk). 
+4.1. Before running our code, please make sure that all packages specified in the "0. library.R" have been installed.\
+4.2. All the figures will be saved to the "Figures/Final Figures/" folder.\
+4.3. If you have any enquiry, please contact Zhang Xu (zhangxu_hku@connect.hku.hk). \
