@@ -1,7 +1,9 @@
 
 # A-copula-based-framework-for-emergent-constraints-using-MCMC-simulations
 
-This fold includes codes that generate main results in the article entitled "A copula-based framework for emergent constraints using MCMC simulations"
+This fold includes codes that generate main results in the article entitled "A copula-based framework for emergent constraints using MCMC simulations". Please cite the following article when using the code:\
+
+Xu Zhang, Jinbao Li, Qianjin Dong, Cong Gao,Hao Chen, 2025, A copula-based framework for emergent constraints using MCMC simulations, doi: 10.1175/JCLI-D-24-0591.1.
 
 ## 1. System requirements
 R (4.4.1) and RStudio (2024.09.1) are required to run the code.
